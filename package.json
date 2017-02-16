@@ -1,6 +1,6 @@
 {
-  "name": "tap-spec",
-  "version": "4.1.1",
+  "name": "ddry-tap-spec",
+  "version": "0.0.1",
   "description": "Formatted TAP output like Mocha's spec reporter",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scottcorgan/tap-spec.git"
+    "url": "ddry/tap-spec"
   },
   "keywords": [
     "tape",
@@ -18,9 +18,12 @@
     "reporter"
   ],
   "author": "Scott Corgan",
+  "contributors": [
+    "Vassiliy Pimkin <vassiliy.pimkin@gmail.com"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scottcorgan/tap-spec/issues"
+    "url": "ddry/tap-spec/issues"
   },
   "dependencies": {
     "chalk": "^1.0.0",
