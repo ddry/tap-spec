@@ -29,7 +29,7 @@
     "chalk": "^1.0.0",
     "duplexer": "^0.1.1",
     "figures": "^1.4.0",
-    "lodash": "^3.6.0",
+    "lodash": "^4.17.10",
     "pretty-ms": "^2.1.0",
     "repeat-string": "^1.5.2",
     "tap-out": "^1.4.1",
@@ -40,6 +40,6 @@
     "tap-spec": "bin/cmd.js"
   },
   "devDependencies": {
-    "tapes": "^2.0.0"
+    "tapes": "^4.1.0"
   }
 }
